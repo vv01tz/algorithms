@@ -5,6 +5,7 @@ This repository contains my implementation of popular algorithms. The code is wr
 
 - [Search](#search)
   - [Binary Search](#binary-search)
+  - [Linear Search](#linear-search)
 - [Where to find me](#where-to-find-me)
 
 ## Binary Search
@@ -14,6 +15,10 @@ If they are not equal, the half in which the target cannot lie is eliminated and
 
 If the search ends with the remaining half being empty, the target is not in the array.
 [src: wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+## Linear Search
+A linear search or sequential search is a method for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched.
+[src: wikipedia](https://en.wikipedia.org/wiki/Linear_search)
 
 # Where to find me
 
