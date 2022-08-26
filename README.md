@@ -13,6 +13,6 @@ programming language.
 
 # Search algorithms
 
-## [Linear Search](./blob/master/search/linearSearch.c)
+## [Linear Search](https://github.com/vv01tz/algorithms/blob/master/search/linearSearch.c)
 Linear search or sequential search is a method for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched.
 [src: wikipedia](https://en.wikipedia.org/wiki/Linear_search)
