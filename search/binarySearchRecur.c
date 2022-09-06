@@ -12,7 +12,7 @@ int binarySearchRecur(int arr[], int n, int start, int end)
         return middle;
     }
 
-    if (start > end) // n was not found in the array. 
+    if (start >= end) // n was not found in the array. 
     {
         return -1;
     }
